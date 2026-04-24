@@ -1,0 +1,1 @@
+Landing page básica com HTML + CSS para treino (baseado na empresa dos meus pais)
