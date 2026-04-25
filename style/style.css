@@ -49,6 +49,7 @@ header {
     text-decoration: none;
     color: white;
     transition: 0.3s;
+    font-size: 18pt;
 }
 
 .nav-links a:hover {
@@ -71,6 +72,17 @@ header {
     color: white;
 }
 
+.btn-home {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: #d51b20;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 24pt;
+}
+
 .btn {
     display: inline-block;
     margin-top: 15px;
@@ -90,6 +102,19 @@ h2 {
     font-size: 30pt;
     margin-bottom: 20px;
     color: #d51b20;
+}
+
+h3 {
+    font-size: 20pt;
+    margin-bottom: 15px;
+    color: #d51b20;
+}
+
+.quem-somos {
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 30px;
+    text-align: left;
 }
 
 .gallery-grid {
